@@ -1,7 +1,16 @@
-<h1 align="center">
-  <img src="https://media.discordapp.net/attachments/897743396070912030/897758122968498176/praise_banner4.png?width=1618&height=910" alt="cChimney" />
-</h1>
+```python
+class pythonDeveloper:
+    def __init__(self):
+        self.name = "cChimney"
+        self.role = "Python Developer"
+        self.language_spoken = ["nl", "en_US"]
 
-<a>
-    <img src="https://komarev.com/ghpvc/?username=cChimney">
-</a>
+    def sayWelcomeToMyPage(self):
+        print("Welcome to my github page, hope you can find something interesting or if you didnt find what you are looking for give me a suggestion by making an issue in any of my repos!")
+
+
+me = pythonDeveloper()
+me.sayWelcomeToMyPage()
+```
+
+![](https://hit.yhype.me/github/profile?user_id=66905361)
